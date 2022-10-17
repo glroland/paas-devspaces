@@ -1,0 +1,7 @@
+---
+displayName: NodeJS MongoDB
+description: NodeJS stack with NPM 8, NodeJS 16 and MongoDB 3.6
+tags: ["NodeJS", "NPM", "Express", "MongoDB", "UBI8"]
+icon: /images/type-node.svg
+links:
+  v2: https://github.com/devspaces-samples/nodejs-mongodb-sample/tree/devspaces-3.2-rhel-8

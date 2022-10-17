@@ -1,0 +1,7 @@
+---
+displayName: NodeJS Express
+description: NodeJS stack with NPM 8, NodeJS 16 and Express Web Application
+tags: ["NodeJS", "NPM", "Express", "UBI8"]
+icon: /images/type-node.svg
+links:
+  v2: https://github.com/devspaces-samples/web-nodejs-sample/tree/devspaces-3.2-rhel-8
