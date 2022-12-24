@@ -1,0 +1,7 @@
+apiVersion: 1.0.0
+metadata:
+  name: vsc
+components:
+  - id: cdr/code-server/latest
+    type: cheEditor
+
